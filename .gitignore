@@ -1,0 +1,4 @@
+#Basic Forbidden Folders / Files
+node_modules
+.env
+*.~
